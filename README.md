@@ -1,3 +1,4 @@
+UTS
 a. Judul ProyekJudul proyek ini adalah "Feeding Frenzy" (atau sesuai dengan caption di baris kode: "Feeding Frenzy - Fix Victory & Crunch").
 b. Konsep Grafika yang DigunakanProgram ini tidak menggunakan gambar (sprite) untuk objek utamanya, melainkan menggunakan konsep Grafika Vektor Berbasis Piksel.
 *Setiap bentuk dibuat dari koordinat matematika yang dihitung secara real-time.Konsep utamanya meliputi:
